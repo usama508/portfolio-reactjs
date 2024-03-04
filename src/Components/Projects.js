@@ -13,6 +13,7 @@ import projImg8 from "../assets/img/bear.png";
 import projImg9 from "../assets/img/pumbing.png";
 import projImg10 from "../assets/img/food.png";
 import projImg11 from "../assets/img/tour.png";
+import projImg12 from "../assets/img/surve.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -46,6 +47,12 @@ export const Projects = () => {
      link:'https://plumbing-usama508.vercel.app/',
       imgUrl: projImg9,
     },
+    {
+      title: "Surveillance",
+     link:'https://surveillance-usama508.vercel.app/',
+      imgUrl: projImg12,
+    },
+
     
   ];
 
