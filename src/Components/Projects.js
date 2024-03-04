@@ -14,6 +14,9 @@ import projImg9 from "../assets/img/pumbing.png";
 import projImg10 from "../assets/img/food.png";
 import projImg11 from "../assets/img/tour.png";
 import projImg12 from "../assets/img/surve.png"
+import projImg13 from "../assets/img/chart.png"
+import projImg14 from "../assets/img/movingservice.png"
+import projImg15 from "../assets/img/bicycle.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -51,6 +54,16 @@ export const Projects = () => {
       title: "Surveillance",
      link:'https://surveillance-usama508.vercel.app/',
       imgUrl: projImg12,
+    },
+    {
+      title: "Moving Service",
+     link:'https://movingservice-usama508.vercel.app/',
+      imgUrl: projImg14,
+    },
+    {
+      title: "Bicycle Repair",
+     link:'https://bicyclerepair-usama508.vercel.app/',
+      imgUrl: projImg15,
     },
 
     
@@ -90,6 +103,11 @@ export const Projects = () => {
       title: "Tour Planner",
      link:'https://tour-planner-usama508.vercel.app/',
       imgUrl: projImg11,
+    },
+    {
+      title: "Chart",
+     link:'',
+      imgUrl: projImg13,
     },
     
   ];
