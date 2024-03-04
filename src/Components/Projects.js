@@ -26,6 +26,11 @@ export const Projects = () => {
 
   const projects1 = [
     {
+      title: "Surveillance",
+     link:'https://surveillance-usama508.vercel.app/',
+      imgUrl: projImg12,
+    },
+    {
       title: "Cleaning Services",
      link:'https://cleaning-usama508.vercel.app/',
       imgUrl: projImg1,
@@ -50,11 +55,7 @@ export const Projects = () => {
      link:'https://plumbing-usama508.vercel.app/',
       imgUrl: projImg9,
     },
-    {
-      title: "Surveillance",
-     link:'https://surveillance-usama508.vercel.app/',
-      imgUrl: projImg12,
-    },
+   
     {
       title: "Moving Service",
      link:'https://movingservice-usama508.vercel.app/',
