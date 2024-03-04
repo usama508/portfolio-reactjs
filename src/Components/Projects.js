@@ -2,21 +2,21 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard1 } from "./ProjectCards1";
 import { ProjectCard2 } from "./ProjectCards2";
 import { ProjectCard3 } from "./ProjectCards3";
-import projImg1 from "../assets/img/cleaning.png";
-import projImg2 from "../assets/img/Yield_calculator.png";
-import projImg3 from "../assets/img/step_form.png";
-import projImg4 from "../assets/img/intake_form.png";
-import projImg5 from "../assets/img/electric.png";
-import projImg6 from "../assets/img/usd_valt.png";
-import projImg7 from "../assets/img/trush.png";
-import projImg8 from "../assets/img/bear.png";
-import projImg9 from "../assets/img/pumbing.png";
-import projImg10 from "../assets/img/food.png";
-import projImg11 from "../assets/img/tour.png";
-import projImg12 from "../assets/img/surve.png"
-import projImg13 from "../assets/img/chart.png"
-import projImg14 from "../assets/img/movingservice.png"
-import projImg15 from "../assets/img/bicycle.png"
+import projImg1 from "../assets/img/cleaning.webp";
+import projImg2 from "../assets/img/Yield_calculator.webp";
+import projImg3 from "../assets/img/step_form.webp";
+import projImg4 from "../assets/img/intake_form.webp";
+import projImg5 from "../assets/img/electric.webp";
+import projImg6 from "../assets/img/usd_valt.webp";
+import projImg7 from "../assets/img/trush.webp";
+import projImg8 from "../assets/img/bear.webp";
+import projImg9 from "../assets/img/pumbing.webp";
+import projImg10 from "../assets/img/food.webp";
+import projImg11 from "../assets/img/tour.webp";
+import projImg12 from "../assets/img/surve.webp"
+import projImg13 from "../assets/img/chart.webp"
+import projImg14 from "../assets/img/movingservice.webp"
+import projImg15 from "../assets/img/bicycle.webp"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
