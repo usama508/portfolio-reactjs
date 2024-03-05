@@ -17,6 +17,8 @@ import projImg12 from "../assets/img/surve.webp"
 import projImg13 from "../assets/img/chart.webp"
 import projImg14 from "../assets/img/movingservice.webp"
 import projImg15 from "../assets/img/bicycle.webp"
+import projImg16 from "../assets/img/form.png"
+import projImg17 from "../assets/img/form-html.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -34,6 +36,11 @@ export const Projects = () => {
       title: "Cleaning Services",
      link:'https://cleaning-usama508.vercel.app/',
       imgUrl: projImg1,
+    },
+    {
+      title: "Form",
+     link:'https://form1-usama508.vercel.app/',
+      imgUrl: projImg17,
     },
     {
       title: "Electric Services",
@@ -65,6 +72,11 @@ export const Projects = () => {
       title: "Bicycle Repair",
      link:'https://bicyclerepair-usama508.vercel.app/',
       imgUrl: projImg15,
+    },
+    {
+      title: "Form",
+     link:'',
+      imgUrl: projImg16,
     },
 
     
