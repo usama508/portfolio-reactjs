@@ -19,6 +19,8 @@ import projImg14 from "../assets/img/movingservice.webp"
 import projImg15 from "../assets/img/bicycle.webp"
 import projImg16 from "../assets/img/form.png"
 import projImg17 from "../assets/img/form-html.png"
+import projImg18 from "../assets/img/yard.png"
+import projImg19 from "../assets/img/payment.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -93,6 +95,11 @@ export const Projects = () => {
      link:'https://step-form-usama508.vercel.app/',
       imgUrl: projImg3,
     },
+    {
+      title: "Payment Information",
+     link:'https://payment-information-usama508.vercel.app/',
+      imgUrl: projImg19,
+    },
     
   ];
 
@@ -116,6 +123,11 @@ export const Projects = () => {
       title: "Tour Planner",
      link:'https://tour-planner-usama508.vercel.app/',
       imgUrl: projImg11,
+    },
+    {
+      title: "Yard Maintenance",
+     link:'https://yardmaintenance-usama508.vercel.app/',
+      imgUrl: projImg18,
     },
     {
       title: "Chart",
