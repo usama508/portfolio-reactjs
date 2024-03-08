@@ -21,6 +21,7 @@ import projImg16 from "../assets/img/form.png"
 import projImg17 from "../assets/img/form-html.png"
 import projImg18 from "../assets/img/yard.png"
 import projImg19 from "../assets/img/payment.png"
+import projImg20 from "../assets/img/handyman.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -133,6 +134,11 @@ export const Projects = () => {
       title: "Chart",
      link:'',
       imgUrl: projImg13,
+    },
+    {
+      title: "Handyman Services",
+     link:'https://handyman-services-usama508.vercel.app/',
+      imgUrl: projImg20,
     },
     
   ];
