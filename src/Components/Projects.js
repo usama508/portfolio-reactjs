@@ -23,6 +23,7 @@ import projImg18 from "../assets/img/yard.png"
 import projImg19 from "../assets/img/payment.png"
 import projImg20 from "../assets/img/handyman.png"
 import projImg21 from "../assets/img/order.png"
+import projImg22 from "../assets/img/product.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -86,6 +87,11 @@ export const Projects = () => {
       title: "Order Detail Page",
      link:'https://order-detail-usama508.vercel.app/',
       imgUrl: projImg21,
+    },
+    {
+      title: "Product Page",
+     link:'https://product-usama508.vercel.app/',
+      imgUrl: projImg22,
     },
 
     
