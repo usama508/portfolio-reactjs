@@ -24,6 +24,8 @@ import projImg19 from "../assets/img/payment.png"
 import projImg20 from "../assets/img/handyman.png"
 import projImg21 from "../assets/img/order.png"
 import projImg22 from "../assets/img/product.png"
+import projImg23 from "../assets/img/features.png"
+import projImg24 from "../assets/img/passenger.png"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -80,7 +82,7 @@ export const Projects = () => {
     },
     {
       title: "Form",
-     link:'',
+     link:'https://form-usama508.vercel.app/',
       imgUrl: projImg16,
     },
     {
@@ -92,6 +94,11 @@ export const Projects = () => {
       title: "Product Page",
      link:'https://product-usama508.vercel.app/',
       imgUrl: projImg22,
+    },
+    {
+      title: "Features Page",
+     link:'https://features-usama508.vercel.app/',
+      imgUrl: projImg23,
     },
 
     
@@ -112,6 +119,11 @@ export const Projects = () => {
       title: "Payment Information",
      link:'https://payment-information-usama508.vercel.app/',
       imgUrl: projImg19,
+    },
+    {
+      title: "Passenger Form",
+     link:'https://passenger-form-usama508.vercel.app/',
+      imgUrl: projImg24,
     },
     
   ];
