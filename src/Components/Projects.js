@@ -17,16 +17,16 @@ import projImg12 from "../assets/img/surve.webp"
 import projImg13 from "../assets/img/chart.webp"
 import projImg14 from "../assets/img/movingservice.webp"
 import projImg15 from "../assets/img/bicycle.webp"
-import projImg16 from "../assets/img/form.png"
-import projImg17 from "../assets/img/form-html.png"
-import projImg18 from "../assets/img/yard.png"
-import projImg19 from "../assets/img/payment.png"
-import projImg20 from "../assets/img/handyman.png"
-import projImg21 from "../assets/img/order.png"
-import projImg22 from "../assets/img/product.png"
-import projImg23 from "../assets/img/features.png"
-import projImg24 from "../assets/img/passenger.png"
-import colorSharp2 from "../assets/img/color-sharp2.png";
+import projImg16 from "../assets/img/form.webp"
+import projImg17 from "../assets/img/form-html.webp"
+import projImg18 from "../assets/img/yard.webp"
+import projImg19 from "../assets/img/payment.webp"
+import projImg20 from "../assets/img/handyman.webp"
+import projImg21 from "../assets/img/order.webp"
+import projImg22 from "../assets/img/product.webp"
+import projImg23 from "../assets/img/features.webp"
+import projImg24 from "../assets/img/passenger.webp"
+import colorSharp2 from "../assets/img/color-sharp2.webp";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import { Link } from "react-router-dom";
